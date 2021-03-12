@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570524318 source:d:\cb\perfect number\main.c
+	<stdio.h>
+	<stdlib.h>
+

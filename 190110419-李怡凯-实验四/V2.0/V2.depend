@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1570802485 source:d:\program files (x86)\v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1570838821 source:d:\cb\v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+

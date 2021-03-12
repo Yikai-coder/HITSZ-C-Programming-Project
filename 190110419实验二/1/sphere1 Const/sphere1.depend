@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569545298 source:d:\cb\1\sphere1 const\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1570867589 source:d:\program files (x86)\scoresystemv1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1570867589 source:d:\program_files_\scoresystemv1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1570977073 source:d:\program_files_\scoresystem\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1571125249 source:d:\cb\scoresystem\main.c
+	<stdio.h>
+	<stdlib.h>
+

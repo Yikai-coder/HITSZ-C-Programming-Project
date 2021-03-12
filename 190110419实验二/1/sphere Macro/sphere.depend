@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569545101 source:d:\cb\sphere\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1569545101 source:d:\cb\1\sphere macro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

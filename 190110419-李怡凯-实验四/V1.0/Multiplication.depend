@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570759020 source:d:\cb\multiplication\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

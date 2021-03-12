@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569547544 source:d:\cb\triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1569547752 source:d:\cb\2\triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
